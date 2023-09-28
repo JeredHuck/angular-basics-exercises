@@ -1,0 +1,19 @@
+.count {
+  text-align: center;
+  font-size: 10em;
+  color: darkcyan;
+}
+
+.buttons {
+  text-align: center;
+}
+
+.btn-1 {
+  font-size: 20px;;
+  margin-right: 5em;
+}
+
+.btn-2 {
+  font-size: 20px;;
+  margin-left: 5em;
+}
